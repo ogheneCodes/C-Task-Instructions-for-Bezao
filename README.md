@@ -19,7 +19,7 @@
 
 
 
-### Note: Ensure you have the required SDK to Run this Programs
+### Note: Ensure you have the required SDK to Run this Programs and the executable file is Program.cs
 
 
 *AUTHOUR*
