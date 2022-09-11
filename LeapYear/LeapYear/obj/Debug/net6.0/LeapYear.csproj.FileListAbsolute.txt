@@ -1,0 +1,15 @@
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.deps.json
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.runtimeconfig.json
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.pdb
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.csproj.AssemblyReference.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.AssemblyInfoInputs.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.AssemblyInfo.cs
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.csproj.CoreCompileInputs.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/refint/LeapYear.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.pdb
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.genruntimeconfig.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/LeapYear/LeapYear/obj/Debug/net6.0/ref/LeapYear.dll
