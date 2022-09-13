@@ -20,6 +20,7 @@
 
 
 ### Note: Ensure you have the required SDK to Run this Programs and the executable file is Program.cs
+### Ensure to cd into the respective forlder down to the /bin/Debug/net6.0/ run the extension that ends with .dll using this format (dotnet nameoffile.dll) if using Linux as this is the OS used in building this app. 
 
 
 *AUTHOUR*
