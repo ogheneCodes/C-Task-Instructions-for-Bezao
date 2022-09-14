@@ -1,0 +1,15 @@
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/bin/Debug/net6.0/text_translator
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/bin/Debug/net6.0/text_translator.deps.json
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/bin/Debug/net6.0/text_translator.runtimeconfig.json
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/bin/Debug/net6.0/text_translator.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/bin/Debug/net6.0/text_translator.pdb
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.csproj.AssemblyReference.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.AssemblyInfoInputs.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.AssemblyInfo.cs
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.csproj.CoreCompileInputs.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/refint/text_translator.dll
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.pdb
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/text_translator.genruntimeconfig.cache
+/home/maxwell/Documents/max learning/projects/C#_Projects/C-Task-Instructions-for-Bezao/text_Translate/text_translator/obj/Debug/net6.0/ref/text_translator.dll
